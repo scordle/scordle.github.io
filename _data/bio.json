@@ -4,23 +4,23 @@
     "label": "Professor | Student",
     "picture": "https://github.com/WScottCordle.png",
     "email": "scordle@sullivan.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "phone": "1213-456-7890",
+    "website": "https://scordle.github.io",
+    "summary": "Insert BIO here", 
+    "location": { "address": "3101 Bardstown Road", "postalCode": "40220", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "scordle", "url": "http://github.com/scordle" },
+      { "network": "linkedin", "username": "scordle", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "wscordle", "url": "http://twitter.com/wscordle" },
+      { "network": "instagram", "username": "wscordle", "url": "http://instagram.com/wscordle" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Programming" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Data Science" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Tech Stuff" }
   ],
   "skills": [
     {
