@@ -6,7 +6,7 @@
     "email": "scordle@sullivan.edu",
     "phone": "1213-456-7890",
     "website": "https://scordle.github.io",
-    "summary": "Insert BIO here", 
+    "summary": "Scott Cordle is the Program Director for Information Technology at Sullivan University’s College of Business and Technology, where he also serves as a Professor in the Information Technology department. He joined Sullivan University in 2002 as an adjunct instructor for introductory programming courses, transitioned to a full-time role in January 2003, became the Department Chair in 2006, and has been the Program Director since 2018. Before his tenure at Sullivan University, Mr. Cordle worked as a Client Systems Analyst at Trover Solutions, a Data Analyst at Product Specialties, and a Training Manager at Sodexho Marriott. His varied professional experience highlights the practical relevance of the technologies he teaches. Mr. Cordle holds a Master of Science in Managing Information Technology from Sullivan University, earned in 2002, and a Bachelor of Arts in Music Education with a major in Voice from Shorter University in Rome, Georgia.", 
     "location": { "address": "3101 Bardstown Road", "postalCode": "40220", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "scordle", "url": "http://github.com/scordle" },
@@ -34,12 +34,13 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Sullivan University, Louisville, KY, USA",
+      "area": "Managing Information Technology",
+      "studyType": "M.S.",
+      "startDate": "2000-09-29",
+      "endDate": "2002-03-31",
       "courses": [
+        "course #1, course #2, course #3"
       ]
     }
   ],
